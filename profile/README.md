@@ -6,7 +6,7 @@ our goal is to make running roblox on linux easier, with better compatibility, p
 
 ### projects
 
-- [cider](https://github.com/QuadraHQ/Cider) - run the macos roblox client on linux.
+- [Quadra](https://github.com/QuadraHQ/Quadra) - run the macos roblox client on linux.
 - [ciderdarling](https://github.com/QuadraHQ/CiderDarling) - darling fork for Quadra, you can probably daily drive this
 
 ### get started
