@@ -7,7 +7,7 @@ our goal is to make running roblox on linux easier, with better compatibility, p
 ### projects
 - [Quadra](https://github.com/QuadraHQ/Quadra-Rewrite) - run the macos roblox client on linux.
 - [ciderdarling](https://github.com/QuadraHQ/CiderDarling) - darling fork for Quadra, you can probably daily drive this (no longer worked on, focus is now on rosemary fork)
-- [Rosemary-Fork] - Rosemary fork meant for quadra with lots of improvements and VR Support for roblox
+- [Rosemary-Fork](https://github.com/QuadraHQ/rosemary-fork) - Rosemary fork meant for quadra with lots of improvements and VR Support for roblox
   
 
 ### get started
