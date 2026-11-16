@@ -21,8 +21,8 @@ curl -fsSL https://quadrahq.org/install.sh | bash
 ### links
 
 - [website](https://quadrahq.org)
-- [source code](https://github.com/QuadraHQ/Cider)
-- [report an issue](https://github.com/QuadraHQ/Quadra-Rewrite/issues)
+- [source code](https://github.com/QuadraHQ/Quadra)
+- [report an issue](https://github.com/QuadraHQ/Quadra/issues)
 
 ### contributing
 
