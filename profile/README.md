@@ -15,6 +15,7 @@
 <p align="center">
   a small team, working on an open-source project that brings the MacOS Roblox Player & Studio client to Linux through <a href="https://github.com/microlift/rosemary">Rosemary</a>, without losing most features a regular Windows Player would have (hopefully)
 </p>
+
 ### Main projects
 - [Quadra](https://github.com/QuadraHQ/Quadra-Rewrite) - run the macos roblox client on linux.
 - [Rosemary-Fork](https://github.com/QuadraHQ/rosemary-fork) - Rosemary fork meant for quadra with lots of improvements and VR Support for roblox
