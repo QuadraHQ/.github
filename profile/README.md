@@ -31,7 +31,6 @@
 
 contributions, bug reports, and suggestions are welcome. feel free to open an issue or submit a pull request.
 
-## License
-Quadra is an independent open-source project.
-QuadraHQ is not affiliated with roblox corporation.
-GPL-3.0-only.
+## important
+- Quadra is an independent open-source project.
+- QuadraHQ is not affiliated with roblox corporation.
